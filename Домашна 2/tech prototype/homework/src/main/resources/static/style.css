@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f7f6e7;
+}
+header h1 {
+    font-size: 36px;
+    margin: 20px 0;
+}
+section {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+}
+.card {
+    width: 300px;
+    background-color: #9b8c7c;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+.card h2 {
+    font-size: 24px;
+}
+.card p {
+    font-size: 16px;
+}
